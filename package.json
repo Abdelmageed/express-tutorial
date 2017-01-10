@@ -1,0 +1,27 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "description": "A work-through [expressworks workshop](https://github.com/azat-co/expressworks)",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DREADME.md",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "crypto": "0.0.3",
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelmageed/express-tutorial.git"
+  },
+  "author": "Abdelmageed Sayed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdelmageed/express-tutorial/issues"
+  },
+  "homepage": "https://github.com/Abdelmageed/express-tutorial#readme"
+}
